@@ -2,7 +2,6 @@
 # Research
 
 08/2017-05/2018. Angular Reconstruction of Cosmic Ray-Induced Muon Showers. (Particle Physics)
-
 <a href="https://docs.wixstatic.com/ugd/481436_065bb16ae30b44d2b2588a914e6321bf.pdf">Slides</a>
 
 <a href="https://www.notion.so/lifeofyufei/Yufei-Xiao-e81e6e64560146c7a8209301c3cf1c2c">CV</a>
