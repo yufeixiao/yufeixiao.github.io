@@ -1,12 +1,5 @@
 # Portfolio - Yufei Xiao
 
-## Research
-
-QuarkNet-Fermilab: Angular Reconstruction of Cosmic Ray-Induced Muon Showers (2018).
-<a href="https://docs.wixstatic.com/ugd/481436_065bb16ae30b44d2b2588a914e6321bf.pdf">Slides</a>
-
-<a href="https://www.notion.so/lifeofyufei/Yufei-Xiao-e81e6e64560146c7a8209301c3cf1c2c">CV</a>
-
 ## Concentration
 
 <img src="https://static.wixstatic.com/media/953f19_3b576f65ae2c4732beb46d304b786359~mv2.png/v1/fill/w_1200,h_672,al_c,q_85,usm_0.66_1.00_0.01/953f19_3b576f65ae2c4732beb46d304b786359~mv2.webp">Gravitational Wave Ring
@@ -26,3 +19,10 @@ QuarkNet-Fermilab: Angular Reconstruction of Cosmic Ray-Induced Muon Showers (20
 
 
 <iframe src="https://player.vimeo.com/video/314904695" width="640" height="468" frameborder="0" allowfullscreen></iframe>
+
+## Research
+
+QuarkNet-Fermilab: Angular Reconstruction of Cosmic Ray-Induced Muon Showers (2018).
+<a href="https://docs.wixstatic.com/ugd/481436_065bb16ae30b44d2b2588a914e6321bf.pdf">Slides</a>
+
+<a href="https://www.notion.so/lifeofyufei/Yufei-Xiao-e81e6e64560146c7a8209301c3cf1c2c">CV</a>
