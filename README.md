@@ -32,6 +32,7 @@ Visited multiple Buddhist cave temples carved on mountainsides to mimic the stat
 
 ->Three years later, designed and built urban cave-like structures repurposed for meditation and play.
 
+## Works
 <img src="https://static.wixstatic.com/media/953f19_3b576f65ae2c4732beb46d304b786359~mv2.png/v1/fill/w_1200,h_672,al_c,q_85,usm_0.66_1.00_0.01/953f19_3b576f65ae2c4732beb46d304b786359~mv2.webp">Gravitational Wave Ring
 
 <img src="https://static.wixstatic.com/media/5c5bd8_778438b87ce346c9957fe5cdcbafa7df~mv2.jpg/v1/fill/w_1200,h_802,al_c,q_85,usm_0.66_1.00_0.01/index-20_1.webp">Moon Man
