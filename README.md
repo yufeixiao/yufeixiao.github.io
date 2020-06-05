@@ -7,14 +7,10 @@
    href = "main.css" />
  </head>
  <body>
- 
- 
-<p>Letters:
-
-<a href="yufeixiao.github.io/20200604.md">20200604</a>
-
-By Yufei</p>
-
-
+  <p> 
+   Letters:<br>
+   <a href="yufeixiao.github.io/20200604.md">20200604</a><br>
+   By Yufei
+  </p>
  </body>
 </html>
