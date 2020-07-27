@@ -1,3 +1,3 @@
 Yufei's Workshop
 
-<a href="/letters">Letters</a>
+<a href="/letters.md">Letters</a>
