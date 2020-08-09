@@ -1,1 +1,1 @@
-<a href="yufeixiao.github.io/projects">Projects</a>
+<a href="yufeixiao.github.io/projects/projectmenu">Projects</a>
