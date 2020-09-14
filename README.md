@@ -1,5 +1,7 @@
 # About Me
 
+<img src="https://static.wixstatic.com/media/5c5bd8_746e8006f1634f088ac05ae8abc2b648~mv2.png/v1/fill/w_824,h_434,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202019-09-16%20at%206_24_19%20PM.webp"></img>
+
 <a href="https://www.linkedin.com/in/yufeixiao0/"> LinkedIn </a>
 
 <a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a898b46f-db79-47f4-997a-22f895897219/Yufei_Xiao_CV.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200914%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200914T100357Z&X-Amz-Expires=86400&X-Amz-Signature=79e91e92477f63436e783bea6a41be08041eb4e8f20b38d0eea262b5143313c6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Yufei%2520Xiao%2520CV.pdf%22"> CV </a>
