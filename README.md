@@ -8,6 +8,7 @@
 
 ### Design: modular wetland filter
 As part of the Global Biomimicry Design Challenge, a teammate and I proposed this embeddable microbe filtration system to relieve the overloaded Ala Wai Canal of Oahu, Hawaii and other floodwater infrastructures.
+
 <a ref="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cb1c0380-a7d8-420a-b612-a48c9045ed45/verticalwetland.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200914%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200914T092932Z&X-Amz-Expires=86400&X-Amz-Signature=79f44b3fd2c5476b93802f1d6016e6f23a70d89d020a47f5140020653b45ae70&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22verticalwetland.pdf%22"> Executive report</a>, 
 <a ref="https://vimeo.com/425006598">Video pitch</a>
 
