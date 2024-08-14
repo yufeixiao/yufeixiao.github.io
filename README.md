@@ -1,5 +1,3 @@
-Yufei Xiao
-
 ### GOAL
 
 I intend to facilitate physicists and farmers to see, understand and create living systems. 
